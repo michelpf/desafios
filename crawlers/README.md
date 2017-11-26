@@ -95,4 +95,4 @@ controlado de processado via o componente _Crochet_, permitindo assim a execuç�
 Entrar no bot pelo link do usuário, e enviar o comando /nadaprafazer seguido da lista de 
 subreddits separados por ponto-e-vírgula.
 
-![Imagem do Chatbot](crawlers/bot_image.png)
+![Imagem do Chatbot](bot_image.png)
