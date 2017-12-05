@@ -1,3 +1,4 @@
 scrapy
 scrapydo
 python-telegram-bot
+beautifulsoup4
